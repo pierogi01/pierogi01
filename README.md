@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pierogi01
-- 👀 idk what Im doing here, but I like coding
+- Junior Frontend Developer with a passion for creating! <3
 
 <!---
 pierogi01/pierogi01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
